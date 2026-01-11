@@ -14,8 +14,8 @@
         android:layout_height="wrap_content"
         android:id="@+id/btnSetting"
         android:text="Setting"
-        android:textSize="40sp"
-        ></Button>
+        android:textSize="40sp">
+    </Button>
 
     
 
